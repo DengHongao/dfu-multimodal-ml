@@ -74,6 +74,7 @@ Original published literature of MIMIC-IV database
 Original published literature of eICU-CRD database
 Corresponding academic manuscript of this dataset (supplemented after formal publication)
 8. Contact and Version Information
-Corresponding Author Email: [ethan_dha@163.com]
+We will upload all the code once our paper is published.
+If there is any question, please feel free to contact me (ethan_dha@163.com)
 Dataset Version: v1.0
 Release Time: 2026-06
