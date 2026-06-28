@@ -1,0 +1,11 @@
+Variable,KS_stat,KS_p
+age,0.0,1.0
+bmi,0.0,1.0
+cci,0.0,1.0
+sofa_score,0.0,1.0
+apache_ii,0.0,1.0
+heart_rate,0.0,1.0
+map,0.0,1.0
+spo2,0.0,1.0
+creatinine,0.0082,0.9838
+egfr,0.0008,1.0

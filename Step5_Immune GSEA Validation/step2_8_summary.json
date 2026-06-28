@@ -1,0 +1,13 @@
+{
+  "total_genes_ranked": 12753,
+  "sig_degs": 3224,
+  "up_degs": 1271,
+  "down_degs": 1953,
+  "gsea_libraries": [
+    "KEGG_2021_Human",
+    "GO_Biological_Process_2021"
+  ],
+  "drug_interactions": 16,
+  "fda_approved_drugs": 14,
+  "cmap_compounds": 10
+}

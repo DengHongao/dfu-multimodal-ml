@@ -1,0 +1,87 @@
+{
+  "dataset": "GSE165816",
+  "data_source": "REAL (downloaded from GEO)",
+  "n_cells_total": 38138,
+  "n_genes": 15324,
+  "n_clusters": 20,
+  "cell_types": [
+    "B cell/Plasma",
+    "Dendritic cell",
+    "Fibroblast",
+    "Keratinocyte",
+    "Macrophage M1",
+    "Macrophage M2",
+    "Neutrophil",
+    "Smooth muscle/Pericyte",
+    "T cell"
+  ],
+  "n_dfu_cells": 21672,
+  "n_ctrl_cells": 16466,
+  "n_samples": 11,
+  "selected_samples": {
+    "GSM5050523": {
+      "g_num": "G2",
+      "disease": "DFU-healer",
+      "group": "DFU"
+    },
+    "GSM5050527": {
+      "g_num": "G4",
+      "disease": "DFU-healer",
+      "group": "DFU"
+    },
+    "GSM5050531": {
+      "g_num": "G7",
+      "disease": "DFU-healer",
+      "group": "DFU"
+    },
+    "GSM5050532": {
+      "g_num": "G8",
+      "disease": "DFU-healer",
+      "group": "DFU"
+    },
+    "GSM5050530": {
+      "g_num": "G6",
+      "disease": "DFU-nonhealer",
+      "group": "DFU"
+    },
+    "GSM5050533": {
+      "g_num": "G9",
+      "disease": "DFU-nonhealer",
+      "group": "DFU"
+    },
+    "GSM5050557": {
+      "g_num": "G33",
+      "disease": "DFU-nonhealer",
+      "group": "DFU"
+    },
+    "GSM5050534": {
+      "g_num": "G10",
+      "disease": "Non-diabetic",
+      "group": "Control"
+    },
+    "GSM5050538": {
+      "g_num": "G14",
+      "disease": "Non-diabetic",
+      "group": "Control"
+    },
+    "GSM5050540": {
+      "g_num": "G16",
+      "disease": "Non-diabetic",
+      "group": "Control"
+    },
+    "GSM5050548": {
+      "g_num": "G24",
+      "disease": "Non-diabetic",
+      "group": "Control"
+    }
+  },
+  "biomarkers_found": [
+    "BBS2",
+    "CACHD1",
+    "DEPTOR",
+    "NDRG2",
+    "PHYHD1"
+  ],
+  "dgidb_interactions": 18,
+  "dgidb_source": "DGIdb v5.0 GraphQL API (real query)"
+}

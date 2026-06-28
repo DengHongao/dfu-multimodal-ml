@@ -1,0 +1,4 @@
+Strategy,Test_AUC,External_AUC
+Simple Average,0.9444,0.9539
+Weighted Average,0.9444,0.9539
+Stacking (LR),0.9404,0.9519

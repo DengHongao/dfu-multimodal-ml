@@ -1,0 +1,16 @@
+feature,VIF,modality
+BBS2,1.037060395647376,Molecular
+NDRG2,1.0355770748482607,Molecular
+DEPTOR,1.0352924320621422,Molecular
+PHYHD1,1.032316176728635,Molecular
+crp,1.0312728711645216,Clinical
+CACHD1,1.022202701258108,Molecular
+anion_gap,1.0177039281372848,Clinical
+procalcitonin,1.0145009451823583,Clinical
+bun,1.0142851254268668,Clinical
+creatinine,1.0132051788994176,Clinical
+wound_culture_positive,1.0124282063407561,Clinical
+insulin_use,1.0122019845497017,Clinical
+glucose,1.0111059732069434,Clinical
+antibiotic_use,1.0040782107498278,Clinical
+fibrinogen,1.0040067059779005,Clinical

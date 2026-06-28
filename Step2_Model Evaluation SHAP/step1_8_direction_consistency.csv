@@ -1,0 +1,11 @@
+Feature,SHAP_Correlation,SHAP_Direction,OR_Value,OR_Direction,Consistent
+anion_gap,0.932683,positive,2.2625,positive,YES
+antibiotic_use,0.984432,positive,5.3337,positive,YES
+bun,0.763049,positive,1.9999,positive,YES
+creatinine,0.716524,positive,1.2967,positive,YES
+crp,0.866876,positive,2.2568,positive,YES
+fibrinogen,0.896921,positive,2.0362,positive,YES
+glucose,0.930734,positive,2.0168,positive,YES
+insulin_use,0.981447,positive,4.3943,positive,YES
+procalcitonin,0.924355,positive,2.0393,positive,YES
+wound_culture_positive,0.989904,positive,11.015,positive,YES

@@ -1,0 +1,27 @@
+{
+  "n_seeds": 3,
+  "AUC_mean": {
+    "AUC_clinical": 0.7341,
+    "AUC_genomic": 0.6602,
+    "AUC_fused": 0.796,
+    "AUC_wagner": 0.6928
+  },
+  "AUC_std": {
+    "AUC_clinical": 0.0442,
+    "AUC_genomic": 0.0168,
+    "AUC_fused": 0.0247,
+    "AUC_wagner": 0.0158
+  },
+  "stability_check_AUC_std_lt_0.02": {
+    "AUC_clinical": false,
+    "AUC_genomic": true,
+    "AUC_fused": false,
+    "AUC_wagner": true
+  },
+  "NRI_fused_vs_clinical": 0.5371994801819363,
+  "IDI_fused_vs_clinical": 0.06631362700460541,
+  "NRI_fused_vs_wagner": 0.6746263807667315,
+  "IDI_fused_vs_wagner": 0.13666068791996788,
+  "DeLong_p_fused_vs_clinical": 0.0,
+  "DeLong_p_fused_vs_wagner": 2.6349293117770383e-14
+}

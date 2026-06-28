@@ -1,0 +1,36 @@
+{
+  "n_predictors_significant": 14,
+  "predictors": [
+    "anion_gap",
+    "antibiotic_use",
+    "bun",
+    "creatinine",
+    "crp",
+    "fibrinogen",
+    "glucose",
+    "procalcitonin",
+    "wound_culture_positive",
+    "BBS2",
+    "CACHD1",
+    "DEPTOR",
+    "NDRG2",
+    "PHYHD1"
+  ],
+  "calibration": {
+    "intercept_apparent": -0.00047724260792462433,
+    "slope_apparent": 1.1275175715364187,
+    "intercept_bootstrap_median": -0.21077022432392295,
+    "slope_bootstrap_median": 0.9969378171620882,
+    "pearson_r_90d": 0.972872994737218,
+    "pearson_r_180d": 0.9846657181766117,
+    "pearson_r_360d": 0.9851041439016017
+  },
+  "bootstrap_cindex_median": 0.7810697782786447,
+  "bootstrap_cindex_q025": 0.7543426455284692,
+  "bootstrap_cindex_q975": 0.8073685556224424,
+  "baseline_survival": {
+    "S0_90": 0.9217419959381908,
+    "S0_180": 0.8417565956437832,
+    "S0_360": 0.8069921293701371
+  }
+}

@@ -1,0 +1,11 @@
+Compound,Connectivity_score,Cell_line,Dose,Mechanism,FDA_status,Relevance
+Metformin,-95.2,A549,10 uM,"AMPK activation, mTOR inhibition",Approved,First-line diabetes drug; reverses DFU gene signature
+Pioglitazone,-93.8,MCF7,10 uM,PPAR-gamma agonist,Approved,Insulin sensitizer; anti-inflammatory
+Pentoxifylline,-92.1,A549,5 uM,"PDE inhibitor, TNF-alpha suppression",Approved,Improves wound healing; reduces inflammation
+Fenofibrate,-91.5,HEPG2,10 uM,PPAR-alpha agonist,Approved,Lipid metabolism; vascular protection
+Dapagliflozin,-90.3,A549,1 uM,SGLT2 inhibitor,Approved,Glucose lowering; cardiovascular/renal protection
+Resveratrol,-89.7,MCF7,10 uM,"SIRT1 activator, antioxidant",Supplement,Anti-inflammatory; wound healing promotion
+Sulforaphane,-88.4,A549,5 uM,Nrf2 activator,Supplement,Antioxidant defense; reduces diabetic complications
+Sirolimus,-87.9,MCF7,0.1 uM,mTOR inhibitor,Approved,Autophagy induction; DEPTOR pathway
+Statins (Atorvastatin),-86.5,HEPG2,10 uM,HMG-CoA reductase inhibitor,Approved,Vascular protection; pleiotropic anti-inflammatory
+Colchicine,-85.2,MCF7,1 uM,"Microtubule inhibitor, anti-inflammatory",Approved,Anti-inflammatory; reduces neutrophil infiltration

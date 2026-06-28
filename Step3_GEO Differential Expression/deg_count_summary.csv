@@ -1,0 +1,4 @@
+Threshold,Up,Down,Total,Up_Down_ratio
+relaxed (|log2FC|>0.585),1271,1953,3224,0.65
+standard (|log2FC|>1.0),481,814,1295,0.59
+strict (|log2FC|>1.5),150,317,467,0.47

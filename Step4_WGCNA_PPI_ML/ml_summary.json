@@ -1,0 +1,24 @@
+{
+  "n_input_genes": 929,
+  "n_lasso_selected": 7,
+  "n_rf_selected": 30,
+  "n_svm_selected": 30,
+  "n_core_biomarkers": 5,
+  "core_biomarkers": [
+    "BBS2",
+    "CACHD1",
+    "DEPTOR",
+    "NDRG2",
+    "PHYHD1"
+  ],
+  "n_stable_genes": 0,
+  "stable_genes": [],
+  "cohen_kappas": {
+    "LASSO_RF": 0.3159661885547669,
+    "LASSO_SVM": 0.3159661885547669,
+    "RF_SVM": 0.2766407119021135
+  },
+  "mean_kappa": 0.30285769633721576,
+  "combined_auc_mean": 0.9685732928333675,
+  "combined_auc_std": 0.012398204422224755
+}

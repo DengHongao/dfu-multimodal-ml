@@ -1,0 +1,43 @@
+{
+  "n_dfu": 1091,
+  "n_events": 269,
+  "clin_features": [
+    "anion_gap",
+    "antibiotic_use",
+    "bun",
+    "creatinine",
+    "crp",
+    "fibrinogen",
+    "glucose",
+    "insulin_use",
+    "procalcitonin",
+    "wound_culture_positive"
+  ],
+  "molecular_biomarkers": [
+    "BBS2",
+    "CACHD1",
+    "DEPTOR",
+    "NDRG2",
+    "PHYHD1"
+  ],
+  "best_strategy": "Early Fusion (concat)",
+  "max_VIF": 1.037060395647376,
+  "PCA_components": {
+    "clinical": 9,
+    "molecular": 5
+  },
+  "AUC": {
+    "early": [
+      0.7897828517831587,
+      0.0061622157532214734
+    ],
+    "mid": [
+      0.7644483026305392,
+      0.012491553444071884
+    ],
+    "late": [
+      0.7857216693188469,
+      0.008312533219190064
+    ]
+  }
+}

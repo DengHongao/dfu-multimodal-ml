@@ -1,0 +1,55 @@
+{
+  "production_model_features": [
+    "anion_gap",
+    "antibiotic_use",
+    "bun",
+    "creatinine",
+    "crp",
+    "fibrinogen",
+    "glucose",
+    "insulin_use",
+    "procalcitonin",
+    "wound_culture_positive",
+    "BBS2",
+    "CACHD1",
+    "DEPTOR",
+    "NDRG2",
+    "PHYHD1"
+  ],
+  "blackbox_accuracy": 0.7,
+  "blackbox_n": 10,
+  "example_case": {
+    "patient_id": 11174907,
+    "predicted_prob": 0.1789779260383975,
+    "predicted_class": 0,
+    "true_label": 0,
+    "top3_positive_shap": [
+      [
+        "PHYHD1",
+        0.8842498898587653
+      ],
+      [
+        "fibrinogen",
+        0.3782434423753332
+      ],
+      [
+        "CACHD1",
+        0.36111528276155597
+      ]
+    ],
+    "top3_negative_shap": [
+      [
+        "glucose",
+        -0.6254720585390128
+      ],
+      [
+        "wound_culture_positive",
+        -0.40619701260789176
+      ],
+      [
+        "anion_gap",
+        -0.26782618635802447
+      ]
+    ]
+  }
+}

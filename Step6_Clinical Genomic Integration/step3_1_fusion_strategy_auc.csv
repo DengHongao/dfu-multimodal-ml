@@ -1,0 +1,4 @@
+strategy,AUC_mean,AUC_std,n_features,notes
+Early Fusion (concat),0.7897828517831587,0.0061622157532214734,15,Direct concatenation of 10 clinical + 5 molecular z-scores
+Mid Fusion (PCA),0.7644483026305392,0.012491553444071884,14,PCA dims: clin=9 mol=5 cum-var>=85%
+Late Fusion (softmax),0.7857216693188469,0.008312533219190064,15,"Per-modality LR, softmax-weighted by validation AUC"

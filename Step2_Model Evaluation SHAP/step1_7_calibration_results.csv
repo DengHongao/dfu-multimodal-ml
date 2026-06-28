@@ -1,0 +1,15 @@
+Model,Dataset,HL_Statistic,HL_P_Value,Cal_Intercept,Cal_Slope
+LR,Internal_Test,750.6822,0.0,-1.917,0.8237
+RF,Internal_Test,59.9658,0.0,-0.6222,1.0133
+XGBoost,Internal_Test,93.256,0.0,-0.6142,0.7181
+SVM,Internal_Test,458.1077,0.0,-1.0937,0.5071
+LightGBM,Internal_Test,162.1125,0.0,-0.5813,0.6284
+ANN,Internal_Test,21570206.9855,0.0,-0.9,0.286
+Stacking,Internal_Test,75.1451,0.0,-0.6029,0.7713
+LR,External_Val,113.9692,0.0,-1.1662,0.9256
+RF,External_Val,13.7305,0.0891,0.2953,1.2021
+XGBoost,External_Val,61.4958,0.0,0.2449,0.7926
+SVM,External_Val,1157.5155,0.0,-0.3138,0.5354
+LightGBM,External_Val,205.9927,0.0,0.312,0.6971
+ANN,External_Val,15698381.592,0.0,-0.1855,0.311
+Stacking,External_Val,35.8281,0.0,0.2943,0.8808

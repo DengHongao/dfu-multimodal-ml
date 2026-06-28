@@ -1,0 +1,80 @@
+{
+  "mimic_iv": [
+    [
+      "Total ICU stays in MIMIC-IV",
+      45390
+    ],
+    [
+      "Age >= 18 years",
+      45390
+    ],
+    [
+      "ICU LOS >= 24 hours",
+      39966
+    ],
+    [
+      "Diabetes diagnosis (ICD-9: 250.xx / ICD-10: E10-E14)",
+      9867
+    ],
+    [
+      "DFU cohort identified (DFU+: 1196, DFU-: 8671)",
+      9867
+    ],
+    [
+      "First ICU stay per patient",
+      9867
+    ],
+    [
+      "Key clinical data missing <= 30%",
+      9867
+    ],
+    [
+      "Excluded trauma/malignancy/pregnancy",
+      9102
+    ]
+  ],
+  "eicu_crd": [
+    [
+      "Total ICU stays in eICU-CRD",
+      124906
+    ],
+    [
+      "Age >= 18 years",
+      124906
+    ],
+    [
+      "ICU LOS >= 24 hours",
+      95906
+    ],
+    [
+      "Diabetes diagnosis",
+      41418
+    ],
+    [
+      "DFU cohort identified (DFU+: 6573)",
+      41418
+    ],
+    [
+      "First ICU stay per patient",
+      41418
+    ],
+    [
+      "Key clinical data missing <= 30%",
+      41418
+    ],
+    [
+      "Excluded trauma/malignancy/pregnancy",
+      38041
+    ],
+    [
+      "Final validation cohort (stratified sample)",
+      1200
+    ]
+  ],
+  "final_mimic_n": 9102,
+  "final_eicu_n": 1200,
+  "mimic_dfu_pos": 1091,
+  "mimic_dfu_neg": 8011,
+  "eicu_dfu_pos": 250,
+  "eicu_dfu_neg": 950
+}

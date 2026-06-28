@@ -1,0 +1,6 @@
+Dataset,Platform,Technology,DFU_n,Control_n,Total_n,Genes_kept,Median_log2,Outliers_3IQR,Use
+GSE134431,GPL18573,RNA-seq,13,8,21,13650.0,2.057,2,Training
+GSE199939,GPL24676,RNA-seq,10,11,21,19716.0,2.863,0,Training
+GSE147890,GPL571,Microarray,6,7,13,13101.0,3.079,0,External validation
+GSE80178,GPL16686,Microarray,6,6,12,15630.0,6.569,2,External validation
+GSE165816,GPL24676 (10x Genomics),scRNA-seq,11,6,17,,,0,Single-cell validation
